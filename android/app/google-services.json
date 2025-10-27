@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "723111602645",
+    "project_id": "massmanager-a8e6b",
+    "storage_bucket": "massmanager-a8e6b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:723111602645:android:c417c52a0c808c6299755c",
+        "android_client_info": {
+          "package_name": "com.example.massmanager"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXJI6PUT0K4WvnfIRZ1XKiynwyE8YcI6s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
